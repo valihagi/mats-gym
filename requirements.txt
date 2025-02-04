@@ -4,7 +4,7 @@ opencv-python
 gymnasium
 pygame
 networkx>=2.3
-scenic @ git+https://github.com/BerkeleyLearnVerify/Scenic.git@v2.1.0b4
+scenic @ git+https://github.com/BerkeleyLearnVerify/Scenic.git@v3.0.0rc1
 srunner @ git+https://github.com/AutonomousDrivingExaminer/scenario_runner.git@leaderboard-2.0
 leaderboard @ git+https://github.com/AutonomousDrivingExaminer/leaderboard.git
 pettingzoo
